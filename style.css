@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(214, 214, 214);
+}
+.card-body {
+    padding: 2px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+#pay {
+    background-color: rgb(107, 107, 107);
+    padding-left: 10px; 
+    margin-right: 75px;   
+    border-radius: 5px;
+}
+#pay > div > label {
+    color: white;
+}
